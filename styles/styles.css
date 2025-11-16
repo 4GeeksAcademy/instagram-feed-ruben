@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*  CLASES GENERALES  */
+.full{
+    width: 100%;
+}
+
+.center{
+    width: 40%;
+    margin: auto;
+}
+
+/* CLASES ESPECIFICAS */
+.header{
+    height: 10vh;
+    align-content: center;
+}
+
+h1{
+    font-size: 2.35em;
+}
+
+.wrapper{
+    background-color: lightgray;
+}
+
+.mainContainer{
+    border: 1px solid red;
+}
